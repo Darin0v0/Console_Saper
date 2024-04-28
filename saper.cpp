@@ -2,8 +2,7 @@
 #include <vector>
 #include <ctime>
 #include <cstdlib>
-#ifdef _WIN32
-#include <windows.h>
+
 
 
 using namespace std;
